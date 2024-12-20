@@ -10,3 +10,6 @@ This dataset contains the details of the Athletes, Coaches, Teams participating 
 
 Dataset Link - https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
+# Architecture
+![Project Architecture](Architecture.png)
+
