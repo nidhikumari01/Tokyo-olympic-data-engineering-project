@@ -1,4 +1,6 @@
 # Tokyo-olympic-data-engineering-project
+
+# Introduction
 This project processes and analyzes Tokyo Olympic data using Azure services. It ingests data into Azure Data Lake Gen2, transforms it with Azure Databricks, and visualizes insights through dashboards in Azure Synapse Analytics.
 
 # About Dataset
