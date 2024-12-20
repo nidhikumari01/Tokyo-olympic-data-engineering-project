@@ -14,9 +14,9 @@ Dataset Link - https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-
 ![Project Architecture](Architecture.png)
 
 # Technology Used
-1.Programming Language - Python
-2.Scripting Language - SQL
-3.Azure Cloud Platform
+1. Programming Language - Python
+2. Scripting Language - SQL
+3. Azure Cloud Platform
   - Azure Data Factory
   - Data Lake Gen 2
   - Azure Databricks
