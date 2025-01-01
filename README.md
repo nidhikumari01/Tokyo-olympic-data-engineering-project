@@ -22,7 +22,7 @@ Dataset Link - https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-
     - Azure Databricks
     - Azure synapse Analytics
 
-![Project Architecture]()
+![Project Architecture](data_factory.png)
 
 ![Project Architecture]()
 
